@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Ethereum and Solidity**
 
-- 📫 How to reach me **https://www.linkedin.com/in/archits581/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/archits581/)
 
 
 <h3 align="left">Languages and Tools:</h3>
