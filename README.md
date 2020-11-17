@@ -1,7 +1,6 @@
 ### Hi there! I'm Archit Shinde 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my React skills
 - 🌱 I’m currently learning React
