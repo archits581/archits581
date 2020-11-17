@@ -9,7 +9,14 @@
 
 - 🤝 I’m looking for help with **Ethereum and Solidity**
 
+- 👯 I’m looking to collaborate on Django and React Projects 
+
+- 💬 Ask me about Django 
+
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/archits581/)
+
+- 😄 Pronouns: He/Him
+
 
 
 <h3 align="left">Languages and Tools:</h3>
