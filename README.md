@@ -19,7 +19,6 @@
 
 
 
-<h3 align="left">Skills:</h3>
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archits581&show_icons=true&locale=en" alt="archits581" /></p>
